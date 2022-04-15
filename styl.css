@@ -1,0 +1,17 @@
+body{
+    background-image: url(images/1649990965072-undefined.png);
+    background-size: 100% 600px;
+}
+.nav{
+    display: flex;
+    justify-content: space-around;}
+svg{
+    width: 700px;
+margin-top: 50px;
+}
+ul{
+    list-style: none;
+    display: flex;}
+    ul>li{
+        padding: 5px;
+    }
