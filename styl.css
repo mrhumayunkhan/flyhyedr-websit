@@ -1,17 +1,27 @@
 body{
     background-image: url(images/1649990965072-undefined.png);
-    background-size: 100% 600px;
-}
+    background-size: 100% 600px;}
 .nav{
     display: flex;
     justify-content: space-around;}
 svg{
     width: 700px;
-margin-top: 50px;
-}
+margin-top: 50px;}
+
 ul{
     list-style: none;
-    display: flex;}
-    ul>li{
-        padding: 5px;
-    }
+    display: flex;
+margin: 20px;}
+.bookbutton{
+            display: flex;
+            justify-content: space-around;}
+            li {
+                margin: 20px;}
+            a {
+                text-decoration: none;
+                color: solid black;
+                font-size: 25px;}
+            .pbutton{
+                display: flex;
+                justify-content: space-between;
+            }
